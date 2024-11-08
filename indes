@@ -1,0 +1,58 @@
+<html>
+ <title>Курсы по химии</title>
+<body>
+<header style="background-color:SkyBlue">
+<p><a href="https://resh.edu.ru/subject/29/">Сыллка для изучения</a></p>
+<p><a href="https://foxford.ru/catalog/courses/himiya">Курсы</a></p>
+<img src="https://logo-suggestion.renderforest.com/suggestions-images/4037/1fa2/40371fa22a9eca6e0d3215ccfe0fcd75.png"width="350px" height="250px"/>
+</header>
+<h1 style="text-align:center;font-size:50px">КУРС ХИМИИ</h1>
+ <h2 style="text-align:center;font-size:40px">Помощь в изучении<h2>
+<img src="https://avatars.mds.yandex.net/i?id=77d4287e78f5bf033e7f6464171e5e35244fcd92-5221787-images-thumbs&n=13">
+<main style="font-size:10px">
+<p style="font-size:20px"><b><i>Здесь дети учатся смешивать реактивы,но важно соблюдать правило техники безопасноси.</i></b></p>
+<img src="https://avatars.mds.yandex.net/i?id=0c9ede9c70c9eb717dd1ebfe15a07ef2140007c5-10703717-images-thumbs&n=13">
+<p style="font-size:20px"><b><i>На картинки расположены колбы,Реактивы.</i></b></p>
+<table style="font-size:20px;border:1px solid black;border-collapse:collapse;">
+<tr style="background-color:IndianRed;color:black">
+<td>Название</td>
+<td>Цена</td>
+<td>Время</td>
+</tr> 
+<tr style="border:1px solid black">
+<td>Химия</td>
+<td>700р</td>
+<td>60м</td>
+</tr>
+<td>ОГЭ и ЕГЭ</td>
+<td>600р</td>
+<td>60м</td>
+<tr style="border:1px solid black">
+<td>В паре</td>
+<td>400р</td>
+<td>60м</td>
+</tr>
+<tr style="border:1px solid black">
+<td>Мини-Группа</td>
+<td>350р</td>
+<td>60м</td>
+</tr>
+<tr style="border:1px solid black">
+<td>Неорганическая химия</td>
+<td>700р</td>
+<td>60м</td>
+</tr>
+<tr style="border:1px solid black">
+<td>Органическая химия</td>
+<td>700р</td>
+<td>60м</td>
+</tr>
+</table>
+</main>
+<footer style="background-color:SkyBlue;color:black">
+    <p style="font-size:15px"> Адрес: город Здоровья, ул.Молочная, 19.</p>
+    <p>Тел.:510-826</p>
+    <p>Приходите будем рады вас ждать!</p>
+    </footer>
+   </body>
+       </html>
